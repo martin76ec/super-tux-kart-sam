@@ -1,0 +1,17 @@
+[project]
+name = "super-tux-kart-sam"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "martin76ec", email = "larreaamartin@gmail.com" }
+]
+requires-python = ">=3.13"
+dependencies = []
+
+[project.scripts]
+super-tux-kart-sam = "super_tux_kart_sam:main"
+
+[build-system]
+requires = ["uv_build>=0.12.7,<0.13.0"]
+build-backend = "uv_build"
