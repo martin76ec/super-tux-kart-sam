@@ -54,7 +54,6 @@ models/
 logs/
 runs/
 wandb/
-outputs/
 lightning_logs/
 *.log
 
