@@ -1,7 +1,7 @@
 # Segmentación Semántica en SuperTuxKart: SAM 2 vs. YOLO
 
 > [!IMPORTANT]
-> Reporte Slop: **[https://martin76ec.github.io/sam-vs-yolo/](https://martin76ec.github.io/sam-vs-yolo/)**
+> Reporte Interactivo: **[https://martin76ec.github.io/sam-vs-yolo/](https://martin76ec.github.io/sam-vs-yolo/)**
 
 ---
 
